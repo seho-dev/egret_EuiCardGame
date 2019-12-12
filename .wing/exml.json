@@ -1,0 +1,47 @@
+{
+    "16eedbeaea4": {
+        "path": "MainScene.ts",
+        "class": "MainScene",
+        "parentPath": ""
+    },
+    "16eedd64b2c": {
+        "path": "MbtnPlayer.ts",
+        "class": "MbtnPlayer",
+        "parentPath": ""
+    },
+    "16eeed1b915": {
+        "path": "HeroScence.ts",
+        "class": "HeroScence",
+        "parentPath": ""
+    },
+    "16eeed2e62a": {
+        "path": "Game\\GoodsScene.ts",
+        "class": "GoodsScene",
+        "parentPath": ""
+    },
+    "16eeed454c4": {
+        "path": "Game\\AboutScene.ts",
+        "class": "AboutScene",
+        "parentPath": ""
+    },
+    "16ef2c1f63e": {
+        "path": "PlayerScene.ts",
+        "class": "PlayerScene",
+        "parentPath": ""
+    },
+    "16ef3d2e992": {
+        "path": "HeroScene.ts",
+        "class": "HeroScene",
+        "parentPath": ""
+    },
+    "16ef8a74cff": {
+        "path": "GoodsScene.ts",
+        "class": "GoodsScene",
+        "parentPath": ""
+    },
+    "16ef9269293": {
+        "path": "GoodIndex.ts",
+        "class": "GoodIndex",
+        "parentPath": ""
+    }
+}

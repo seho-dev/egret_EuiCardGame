@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroScenceSkin" width="111" height="80" currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="up,down,disabled" >
+	<w:Config id="16eeed1b915" ></w:Config>
+	<e:Image source="mbtn_BgFc_png" includeIn="down" left="0" top="0"/>
+	<e:Image source="mbtn_Bg_png" left="0" top="0" left.up="0" top.up="0" includeIn="up,disabled"/>
+	<e:Image source="mbtnHero_png" left="0" top="0" left.up="0" top.up="0"/>
+</e:Skin>
